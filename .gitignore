@@ -1,0 +1,19 @@
+# Ignore compiled Java class files
+*.class
+
+# Ignore BlueJ files
+*.ctxt
+
+# Ignore VS Code settings and workspace files
+.vscode/
+*.code-workspace
+
+# Ignore temporary files
+*.tmp
+*.bak
+
+# Ignore macOS system files
+.DS_Store
+
+# Ignore Windows system files
+Thumbs.db
