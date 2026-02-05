@@ -6,7 +6,7 @@ iii) if user enters 3, print "Bonjour!"  */
 
 import java.util.*;
 
-public class PrintGreetins {
+public class PrintGreetings {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
