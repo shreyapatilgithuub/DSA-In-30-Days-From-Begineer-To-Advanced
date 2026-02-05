@@ -13,9 +13,9 @@ public class IncomeTaxCalculator {
 
         if (Income < 500000) {
             tax = 0;   
-        } else if (Income > 500000 && Income < 100000){
+        } else if (Income > 500000 && Income < 100000) {
             tax = (int) (Income * 0.2);
-        } else{
+        } else {
             tax = (int) (Income * 0.3);
         }
 

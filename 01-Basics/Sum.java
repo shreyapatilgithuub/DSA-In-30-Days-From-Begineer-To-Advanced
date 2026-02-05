@@ -17,5 +17,6 @@ public class Sum {
     int sum = a + b;
     System.out.println(sum);
 
+    sc.close();
     }
 }
