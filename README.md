@@ -7,12 +7,22 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 
 | Day | Topic | Key Programs | Status |
 | :--- | :--- | :--- | :--- |
-| 1 | Basics & Variables | `RightHalfPyramid.java` `Sum.java` | ✅ |
-| 2 | Conditional Statements | `EvenorOdd.java` `CompareNumbers.java` `PrintGreetings.java` `SimpleCalculator.java`| ✅ |
-| 3 | Loops (While/For) | — | ⏳ |
-| 4 | Pattern Problems | — | ⏳ |
-| 5 | Pattern Problems (Advanced) | — | ⏳ |
-| 6 | Functions & Methods | — | ⏳ |
+| 01 | Basics & Variables | `RightHalfPyramid.java` `Sum.java` | ✅ |
+| 02 | Conditional Statements | `EvenorOdd.java` `CompareNumbers.java` `PrintGreetings.java` `SimpleCalculator.java` `IncomeTaxCalculator.java`| ✅ |
+| 03 | Loops (While/For) | — | ⏳ |
+| 04 | Pattern Problems | — | ⏳ |
+| 05 | Pattern Problems (Advanced) | — | ⏳ |
+| 06 | Functions & Methods | — | ⏳ |
+| 07 | Functions-I | — | ⏳ |
+| 08 | Functions-II | — | ⏳ |
+| 09 | Basics of Time & Space Complexity | — | ⏳ |
+| 10 | Arrays | — | ⏳ |
+| 11 | 2D Arrays | — | ⏳ |
+| 12 | Strings | — | ⏳ |
+| 13 | String Builders | — | ⏳ |
+| 14 | Operators and Binary Numbers | — | ⏳ |
+| 15 | Bit Manipulation | — | ⏳ |
+
 
 ## 🛠️ Tech Stack & Tools
 - **Language:** Java (JDK 17+)
