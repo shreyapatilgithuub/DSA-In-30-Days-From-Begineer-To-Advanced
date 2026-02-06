@@ -9,7 +9,7 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 | :--- | :--- | :--- | :--- |
 | 01 | Basics & Variables | `RightHalfPyramid.java` `Sum.java` | ✅ |
 | 02 | Conditional Statements | `EvenorOdd.java` `CompareNumbers.java` `PrintGreetings.java` `SimpleCalculator.java` `IncomeTaxCalculator.java`| ✅ |
-| 03 | Loops (While/For) | — | ⏳ |
+| 03 | Loops (For/While/Do-while) | `PrintEvenNumbers.java` `PrintTable.java` `Question1.java` `PrimeOrNot` | ✅ |
 | 04 | Pattern Problems | — | ⏳ |
 | 05 | Pattern Problems (Advanced) | — | ⏳ |
 | 06 | Functions & Methods | — | ⏳ |
