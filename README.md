@@ -41,9 +41,3 @@ To run any file locally, navigate to the folder and use:
 ```bash
 javac FileName.java
 java FileName
-
-## Author
-Shreya S Patil
-Github: https://github.com/shreyapatilgithuub
-Linkedin: https://www.linkedin.com/in/shreya-patil-04569424b/
-Email: shreyapatil062003@gmail.com
