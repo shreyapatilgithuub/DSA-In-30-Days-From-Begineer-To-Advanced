@@ -31,9 +31,11 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 
 ## 📂 Repository Structure
 - `01-Basics/`: Basic syntax, input/output, and initial pattern logic.
-- `02-Conditionals/`: (Upcoming) If-else, switch cases, and logic building.
-- `03-Loops/`: (Upcoming) Iterative programming.
-
+- `02-Conditionals/`: If-else, switch cases, and logic building.
+- `03-Loops/`: Iterative programming.
+- `04-Pattern Problems/`: 9 best Pattern questions.
+- `05-Adavnced Patterns`: (Upcoming) 5 best advanced Patterns questions.
+  
 ## 📝 How to Run
 To run any file locally, navigate to the folder and use:
 ```bash
