@@ -13,7 +13,7 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 | 04 | Pattern Problems | `PatternsQuestion1.java` `Question2.java` `Question3.java` `Question4.java` `Question5.java` `Question6.java` `Question7.java` `Question8.java` `Question9.java` | ✅ |
 | 05 | Pattern Problems (Advanced) | `Question10.java` `Question11.java` `Question12.java` `Question13.java` `Question14.java` | ✅ |
 | 06 | Functions & Methods | `FunctionQuestion1.java` `FunctionsQuestion2.java` `FunctionQuestions3.java` | ✅ |
-| 07 | Functions-I | `FunctionsQuestion4.java` `FunctionsQuestion5.java` `FunctionsQuestion6.java` `FunctionsQuestion7.java` `FunctionsQuestion8.java` `FunctionQuestion9.java` `FunctionsQuestion10.java` | ✅ |
+| 07 | Functions-II | `FunctionsQuestion4.java` `FunctionsQuestion5.java` `FunctionsQuestion6.java` `FunctionsQuestion7.java` `FunctionsQuestion8.java` `FunctionQuestion9.java` `FunctionsQuestion10.java` | ✅ |
 | 08 | Time & Space Complexity | — | ⏳ |
 | 09 | Arrays | — | ⏳ |
 | 10 | 2D Arrays | — | ⏳ |
@@ -36,7 +36,7 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 - `04-Pattern Problems/`: 9 best Pattern questions.
 - `05-Adavnced Patterns`: 5 best advanced Patterns questions.
 - `06-Functions and Methods`: Basic questions on Functions.
-- `07-Functions-I`: Practice questions on Functions.
+- `07-Functions-II`: Practice questions on Functions.
 - `08-Tinme & space complexity`: Upcoming..
   
 ## 📝 How to Run
