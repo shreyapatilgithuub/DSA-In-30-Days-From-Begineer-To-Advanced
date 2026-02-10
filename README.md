@@ -12,16 +12,16 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 | 03 | Loops (For/While/Do-while) | `PrintEvenNumbers.java` `PrintTable.java` `Question1.java` `PrimeOrNot` | ✅ |
 | 04 | Pattern Problems | `PatternsQuestion1.java` `Question2.java` `Question3.java` `Question4.java` `Question5.java` `Question6.java` `Question7.java` `Question8.java` `Question9.java` | ✅ |
 | 05 | Pattern Problems (Advanced) | `Question10.java` `Question11.java` `Question12.java` `Question13.java` `Question14.java` | ✅ |
-| 06 | Functions & Methods | — | ⏳ |
+| 06 | Functions & Methods | `FunctionQuestion1.java` `FunctionsQuestion2.java` `FunctionQuestions3.java` | ✅ |
 | 07 | Functions-I | — | ⏳ |
-| 08 | Functions-II | — | ⏳ |
-| 09 | Basics of Time & Space Complexity | — | ⏳ |
-| 10 | Arrays | — | ⏳ |
-| 11 | 2D Arrays | — | ⏳ |
-| 12 | Strings | — | ⏳ |
-| 13 | String Builders | — | ⏳ |
-| 14 | Operators and Binary Numbers | — | ⏳ |
-| 15 | Bit Manipulation | — | ⏳ |
+| 08 | Basics of Time & Space Complexity | — | ⏳ |
+| 09 | Arrays | — | ⏳ |
+| 10 | 2D Arrays | — | ⏳ |
+| 11 | Strings | — | ⏳ |
+| 12 | String Builders | — | ⏳ |
+| 13 | Operators and Binary Numbers | — | ⏳ |
+| 14 | Bit Manipulation | — | ⏳ |
+| 15 | Sorting | — | ⏳ |
 
 
 ## 🛠️ Tech Stack & Tools
@@ -34,7 +34,9 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 - `02-Conditionals/`: If-else, switch cases, and logic building.
 - `03-Loops/`: Iterative programming.
 - `04-Pattern Problems/`: 9 best Pattern questions.
-- `05-Adavnced Patterns`: (Upcoming) 5 best advanced Patterns questions.
+- `05-Adavnced Patterns`: 5 best advanced Patterns questions.
+- `06-Functions and Methods`: Basic questions on Functions.
+- `07-Functions-I`: (Upcoming..)
   
 ## 📝 How to Run
 To run any file locally, navigate to the folder and use:
