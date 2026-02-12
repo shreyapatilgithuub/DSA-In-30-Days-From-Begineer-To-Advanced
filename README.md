@@ -37,7 +37,9 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 - `05-Adavnced Patterns`: 5 best advanced Patterns questions.
 - `06-Functions and Methods`: Basic questions on Functions.
 - `07-Functions-II`: Practice questions on Functions.
-- `08-Tinme & space complexity`: Upcoming..
+- `08-Tinme & space complexity`: Therotical Concepts of Time and Space Complexity.
+- `09-Arrays`: Solved Basic 1D array questions.
+- `10-2D Arrays`: Upcoming....
   
 ## 📝 How to Run
 To run any file locally, navigate to the folder and use:
