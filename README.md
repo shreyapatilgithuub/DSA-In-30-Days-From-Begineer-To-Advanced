@@ -14,8 +14,8 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 | 05 | Pattern Problems (Advanced) | `Question10.java` `Question11.java` `Question12.java` `Question13.java` `Question14.java` | ✅ |
 | 06 | Functions & Methods | `FunctionQuestion1.java` `FunctionsQuestion2.java` `FunctionQuestions3.java` | ✅ |
 | 07 | Functions-II | `FunctionsQuestion4.java` `FunctionsQuestion5.java` `FunctionsQuestion6.java` `FunctionsQuestion7.java` `FunctionsQuestion8.java` `FunctionQuestion9.java` `FunctionsQuestion10.java` | ✅ |
-| 08 | Time & Space Complexity | — | ✅️ |
-| 09 | Arrays | — | ⏳ |
+| 08 | Time & Space Complexity | Dived into the concepts of Time & Space Complexity | ✅️ |
+| 09 | Arrays | `ArraysQuestion1.java` `ArraysQuestion2.java` `ArraysQuestion3.java` `ArraysQuestion4.java` | ✅️ |
 | 10 | 2D Arrays | — | ⏳ |
 | 11 | Strings | — | ⏳ |
 | 12 | String Builders | — | ⏳ |
