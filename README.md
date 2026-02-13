@@ -43,6 +43,6 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
   
 ## 📝 How to Run
 To run any file locally, navigate to the folder and use:
-```bash
+```bash. 
 javac FileName.java
 java FileName
