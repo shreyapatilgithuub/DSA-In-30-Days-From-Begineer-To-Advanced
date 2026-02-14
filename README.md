@@ -16,7 +16,7 @@ This repository tracks my intensive 30-day journey in mastering Data Structures 
 | 07 | Functions-II | `FunctionsQuestion4.java` `FunctionsQuestion5.java` `FunctionsQuestion6.java` `FunctionsQuestion7.java` `FunctionsQuestion8.java` `FunctionQuestion9.java` `FunctionsQuestion10.java` | ✅ |
 | 08 | Time & Space Complexity | Dived into the therotical concepts of Time & Space Complexity | ✅️ |
 | 09 | Arrays | `ArraysQuestion1.java` `ArraysQuestion2.java` `ArraysQuestion3.java` `ArraysQuestion4.java` `LinearSearch.java` `BinarySearch.java` | ✅️ |
-| 10 | 2D Arrays | — | ⏳ |
+| 10 | 2D Arrays | — | ✅️ |
 | 11 | Strings | — | ⏳ |
 | 12 | String Builders | — | ⏳ |
 | 13 | Operators and Binary Numbers | — | ⏳ |
